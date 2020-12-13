@@ -1,2 +1,3 @@
-# MilkyWay
-The code for Milky Way!
+# Milky Way
+
+Milky Way is a 2D game made with Unity using C#!
